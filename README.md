@@ -31,21 +31,7 @@ I'm Lekha — I build reliable, user-focused applications and enjoy contributing
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lekhareddy15&theme=github)
 
 ## 📫 Get in touch
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: lekhareddy16@outlook.com
+- LinkedIn: https://www.linkedin.com/in/lekhareddy16/
 
-Replace the placeholders with your actual contact links.
 
-## 💬 How you can use & customize this
-1. Create a new repository named exactly: `lekhareddy15` (the same as your username).
-2. Add this file as `README.md` at the repository root.
-3. Commit and push to GitHub — the README will appear automatically on your profile.
-4. Customize: update the bio, skills, featured projects, and contact links. You can change themes and parameters for the stats cards (see the services' docs: github-readme-stats and others).
-
----
-
-Thanks for visiting — if you'd like, I can:
-- Replace placeholders with your real project links and social URLs,
-- Tune the visual theme for the stats panels,
-- Add more sections (blog, talks, certifications, pinned repos) or a short animation/header.
