@@ -9,11 +9,12 @@ I'm Lekha — I build reliable, user-focused applications and enjoy contributing
 - Exploring modern web frameworks, cloud-native design, and developer tooling
 
 ## 👩‍💻 Skills
-- Languages: JavaScript/TypeScript, Python, Java
-- Web: React, Next.js, Node.js, Express
-- Databases: PostgreSQL, MongoDB
-- DevOps / Cloud: GitHub Actions, Docker, AWS (EC2, S3, Lambda)
-- Testing & Tools: Jest, Cypress, ESLint, Prettier
+- Programming Languages & Frameworks: Python, Spring Boot, TypeScript, Java, Next.js, Node.js, Angular, C++ 
+- AI/ML & Data Science: PyTorch, NLP, Machine Learning, Deep Learning, Predictive Analytics, LLM
+- Data Engineering: SQL, MongoDB, MySQL, PostgreSQL, Firebase
+- Cloud & Infrastructure: AWS (Kinesis, S3, Lambda, EC2, CloudWatch), Azure (Data Pipelines & ML Services), Docker, Kubernetes
+- Engineering Concepts: ETL Pipelines, Data Analysis, REST APIs, GraphQL, Microservices, Agile Methodology, CI/CD, System Design 
+- Development Tools: Git, GitHub, Postman, Jira, VS Code, Docker, Kubernetes, Copilot, Cursor 
 
 ## 🚀 Featured / Recent Projects
 - [My Portfolio](https://github.com/lekhareddy15/portfolio) — Personal site and project showcase
