@@ -1,8 +1,9 @@
 # Hi, I'm Lekha Reddy 👋
 
-> Software developer | Open Source enthusiast | Continuous learner
+> Software Engineer | Open Source enthusiast | Continuous learner
 
-I'm Lekha — I build reliable, user-focused applications and enjoy contributing to open source. I work across the full stack with a focus on writing clean, maintainable code and learning new technologies.
+I'm Lekha
+I build reliable, user-focused applications and enjoy contributing to open source. I work across the full stack with a focus on writing clean, maintainable code and learning new technologies.
 
 ## 🔭 Currently
 - Building and shipping projects that solve real problems
@@ -16,12 +17,6 @@ I'm Lekha — I build reliable, user-focused applications and enjoy contributing
 - Engineering Concepts: ETL Pipelines, Data Analysis, REST APIs, GraphQL, Microservices, Agile Methodology, CI/CD, System Design 
 - Development Tools: Git, GitHub, Postman, Jira, VS Code, Docker, Kubernetes, Copilot, Cursor 
 
-## 🚀 Featured / Recent Projects
-- [My Portfolio](https://github.com/lekhareddy15/portfolio) — Personal site and project showcase
-- [Project-Name](https://github.com/lekhareddy15/project-repo) — Short description of project and tech used
-- Add your top projects here — link the repos and write a 1–2 line summary for each.
-
-> Tip: Replace the placeholder project links above with the repos you want to highlight.
 
 ## 📈 GitHub Stats
 
